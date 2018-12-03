@@ -1,1 +1,3 @@
 checking git commits
+git config --global user.email "neilcamilogomes@gmail.com"
+git config --global user.name "Neil"
